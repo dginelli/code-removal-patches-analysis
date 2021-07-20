@@ -1,6 +1,6 @@
 ﻿Build id;Project;Patch ID;CP;WT;BT;RT;FT;Human patch;Details
 [322406277](https://github.com/repairnator/repairnator-experiments/tree/e762ed4f8f2035e3a8ef372c60247f4ba54168f3);pac4j;;;;;;;Pull request closed;
-;;1;x;;;;;;
+;;[1](builds-one-failing-test-case/322406277/code-removal-patches/patch_1.patch);x;;;;;;
 [365170225](https://github.com/repairnator/repairnator-experiments/tree/4285d1aef8d451abd79a53e75fac346fe0a4a42a);atomix;;;;;;;Not found;
 ;;1;;x;;;;;
 [397786068](https://github.com/repairnator/repairnator-experiments/tree/8a4c55d7c1b001ec63943c22035d39274318ce71);test-analyzer;;;;;;;Fix test data;
