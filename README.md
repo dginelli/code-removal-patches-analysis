@@ -1,4 +1,4 @@
-# Code-removal Patches for one failing test builds
+# Code-removal Patches for One-failing-test Builds
 
 |Build id                                                                                                         |Project                        |Patch ID|CP |WT |BT |RT |FT |Human patch                 |Details|
 |-----------------------------------------------------------------------------------------------------------------|-------------------------------|--------|---|---|---|---|---|----------------------------|-------|
