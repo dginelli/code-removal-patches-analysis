@@ -10,13 +10,13 @@
 [368867994](https://github.com/repairnator/repairnator-experiments/tree/fdef386149ada053317edf8c130a3674eadb021f);Text-Traffic-Simulator;;;;;;;Fix test code;
 ;;[1](builds-one-failing-test-case/368867994/code-removal-patches/patch_1.patch);;x;;;;;
 ;;[2](builds-one-failing-test-case/368867994/code-removal-patches/patch_2.patch);;x;;;;;
-;;[2](builds-one-failing-test-case/368867994/code-removal-patches/patch_2.patch);;x;;;;;
 ;;[3](builds-one-failing-test-case/368867994/code-removal-patches/patch_3.patch);;x;;;;;
 ;;[4](builds-one-failing-test-case/368867994/code-removal-patches/patch_4.patch);;x;;;;;
 ;;[5](builds-one-failing-test-case/368867994/code-removal-patches/patch_5.patch);;x;;;;;
 ;;[6](builds-one-failing-test-case/368867994/code-removal-patches/patch_6.patch);;x;;;;;
 ;;[7](builds-one-failing-test-case/368867994/code-removal-patches/patch_7.patch);;x;;;;;
 ;;[8](builds-one-failing-test-case/368867994/code-removal-patches/patch_8.patch);;x;;;;;
+;;[9](builds-one-failing-test-case/368867994/code-removal-patches/patch_9.patch);;x;;;;;
 [400611810](https://github.com/repairnator/repairnator-experiments/tree/15f57d18e2f71f91282135e3fedba12351d1c9d9);HttpRequest;;;;;;;Fix test code;
 ;;[1](builds-one-failing-test-case/400611810/code-removal-patches/patch_1.patch);;x;;;;;
 ;;[2](builds-one-failing-test-case/400611810/code-removal-patches/patch_2.patch);;x;;;;;
