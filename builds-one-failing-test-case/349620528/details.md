@@ -2,7 +2,7 @@
 
 | Failure type | Failure details |Failing test case | Changed file by AstorJKali |
 |--------------|--------------- |----|----------------------------|
-| java.lang.AssertionError | java.lang.AssertionError: expected:<12> but was:<13> |[ItemTest.java](https://github.com/repairnator/repairnator-experiments-jkali-one-failing-test-case/blob/22fa712df21b7215a3596cfc42e56cc85154f309/src/test/java/fr/esiea/ItemTest.java#L35) | [BackstagePassesItem.java](https://github.com/repairnator/repairnator-experiments-jkali-one-failing-test-case/blob/22fa712df21b7215a3596cfc42e56cc85154f309/src/main/java/fr/esiea/BackstagePassesItem.java#L19)|
+| java.lang.AssertionError | expected:<12> but was:<13> |[ItemTest.java](https://github.com/repairnator/repairnator-experiments-jkali-one-failing-test-case/blob/22fa712df21b7215a3596cfc42e56cc85154f309/src/test/java/fr/esiea/ItemTest.java#L35) | [BackstagePassesItem.java](https://github.com/repairnator/repairnator-experiments-jkali-one-failing-test-case/blob/22fa712df21b7215a3596cfc42e56cc85154f309/src/main/java/fr/esiea/BackstagePassesItem.java#L19)|
 
 -**Human Patch**:
 
