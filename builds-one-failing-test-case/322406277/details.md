@@ -1,6 +1,6 @@
 # Information about the failure
 
-| Failure type | Failure details |Failing test case | Changed file by AstorJKali |
+| Failure type | Failure details |Failing test case | Changed file by jKali |
 |--------------|-----------------|------------------|----------------------------|
 | java.lang.AssertionError | java.lang.AssertionError: expected null, but was:`<true>` | [StringConverterTests.java](https://github.com/repairnator/repairnator-experiments/blob/fdb7d8ebacdbc51622252eb40fa85722d2cc375d/pac4j-core/src/test/java/org/pac4j/core/profile/converter/StringConverterTests.java#L33) | [StringConverter.java](https://github.com/repairnator/repairnator-experiments/blob/fdb7d8ebacdbc51622252eb40fa85722d2cc375d/pac4j-core/src/main/java/org/pac4j/core/profile/converter/StringConverter.java#L17)|
 
