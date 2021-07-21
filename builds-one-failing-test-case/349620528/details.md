@@ -1,6 +1,6 @@
 # Information about the failure
 
-| Failure type | Failure details |Failing test case | Changed file by AstorJKali |
+| Failure type | Failure details |Failing test case | Changed file by jKali |
 |--------------|--------------- |----|----------------------------|
 | java.lang.AssertionError | expected:<12> but was:<13> |[ItemTest.java](https://github.com/repairnator/repairnator-experiments-jkali-one-failing-test-case/blob/22fa712df21b7215a3596cfc42e56cc85154f309/src/test/java/fr/esiea/ItemTest.java#L35) | [BackstagePassesItem.java](https://github.com/repairnator/repairnator-experiments-jkali-one-failing-test-case/blob/22fa712df21b7215a3596cfc42e56cc85154f309/src/main/java/fr/esiea/BackstagePassesItem.java#L19)|
 
@@ -23,5 +23,5 @@ index c9d6737..ec41dfa 100644
 ```
 
 - **Overview**: the problem is related to the test case that checks the correct behavior of the method [updateQuality](https://github.com/repairnator/repairnator-experiments-jkali-one-failing-test-case/blob/22fa712df21b7215a3596cfc42e56cc85154f309/src/main/java/fr/esiea/BackstagePassesItem.java#L11). Indeed, in a [later commit](https://github.com/ryhita/gilded-rose/compare/9dbd8ad8bcd8...11f8e4370ec5), the developer changed the test case to fix the problem. In the commit associated with the failing build, the developer changed two values of the test case that failed, and one of this has been changed in the commit that fixed the bug.
-- **Reason why the patch has been generated**: AstorJKali managed to create a patch because the failing test case had an error in the comparison of the `quality` values. Since the patch removes a piece of code that increments the value of that property, during the comparison the value got by the method `updateQuality` is the same that the text case expected, and so the test case passes. 
+- **Reason why the patch has been generated**: jKali managed to create a patch because the failing test case has an error in the comparison of the `quality` values. Since the patch removes a piece of code that increments the value of that property, during the comparison the value got by the method `updateQuality` is the same that the test case expects, and so the test case passes. 
 - **Useful information for the developer**: the developer can focus on the method `updateQuality` and checks if it is correct or not, and she can also check if the test that verifies its correctness is correct. Moreover, since the failing commit had only changes in the test case that then started to fail, she knows directly which is the test case that should be verified.
