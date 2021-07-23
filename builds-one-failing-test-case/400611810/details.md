@@ -1,8 +1,8 @@
 # Information about the failure
 
-| Failure type | Failure details | Failing test case | Changed file by AstorJKali |
+| Failure type | Failure details | Failing test case | Changed file by jKali |
 |--------------|-------------------|----------------------------|-----------------|
-| org.opentest4j.AssertionFailedError | expected: <200> but was: <302> | [TestRequest.java](https://github.com/repairnator/repairnator-experiments-one-failing-test-case/blob/12171dada351fd2bfe999f8dd10cb0931829b5fb/src/test/java/com/http/TestRequest.java#L17) | [Request.java](https://github.com/repairnator/repairnator-experiments-one-failing-test-case/blob/12171dada351fd2bfe999f8dd10cb0931829b5fb/src/main/java/com/http/Request.java#L398)|
+| org.opentest4j.AssertionFailedError | expected: <200> but was: <302> | [TestRequest.java](https://github.com/repairnator/repairnator-experiments-one-failing-test-case/blob/12171dada351fd2bfe999f8dd10cb0931829b5fb/src/test/java/com/http/TestRequest.java#L17) | [Request.java](https://github.com/repairnator/repairnator-experiments-one-failing-test-case/blob/12171dada351fd2bfe999f8dd10cb0931829b5fb/src/main/java/com/http/Request.java)|
 
 - **Human Patch**:
 
