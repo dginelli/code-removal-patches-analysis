@@ -1,6 +1,6 @@
 # Information about the failure
 
-| Failure type | Failure details | Failing test case | Changed file by AstorJKali |
+| Failure type | Failure details | Failing test case | Changed file by jKali |
 |--------------|-------------------|----------------------------|------------------|
 | org.junit.ComparisonFailure | expected:<...ss.a()', '1', '2'); []> but was:<...ss.a()', '1', '2'); [ #Failing test case: de.tum.in.niedermr.ta.sample.junit.SampleJUnitTestClass;testCase2]> | [SurefireTestListenerTest.java](https://github.com/repairnator/repairnator-experiments-jkali-one-failing-test-case/blob/1b63f1b13f9ceae558c20cb8752636502f2846e8/test-analyzer-sdist/src/test/java/de/tum/in/niedermr/ta/extensions/analysis/workflows/stackdistance/maven/AbstractSurefireTestListenerTest.java#L48) | [AbstractSurefireTestListener.java](https://github.com/repairnator/repairnator-experiments-jkali-one-failing-test-case/blob/1b63f1b13f9ceae558c20cb8752636502f2846e8/test-analyzer-sdist/src/main/java/de/tum/in/niedermr/ta/extensions/analysis/workflows/stackdistance/maven/AbstractSurefireTestListener.java#L128)|
 
