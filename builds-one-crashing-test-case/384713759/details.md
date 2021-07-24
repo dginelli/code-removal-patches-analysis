@@ -2,7 +2,7 @@
 
 | Error type   | Crashing test case | Changed file by jKali |
 |--------------|-------------------|----------------------------|
-| javax.persistence.PersistenceException | [CotisationServiceJpaTest.java](https://github.com/repairnator/repairnator-experiments-one-erroring-test-case/blob/2ae47304966586bd5b33c3d4b6fb4e06f95c4058/src/test/java/dev/paie/service/CotisationServiceJpaTest.java#L33)| [Cotisation.java](https://github.com/repairnator/repairnator-experiments-one-erroring-test-case/blob/2ae47304966586bd5b33c3d4b6fb4e06f95c4058/src/main/java/dev/paie/entite/Cotisation.java#L31)|
+| javax.persistence.PersistenceException | [CotisationServiceJpaTest.java](https://github.com/repairnator/repairnator-experiments-one-erroring-test-case/blob/2ae47304966586bd5b33c3d4b6fb4e06f95c4058/src/test/java/dev/paie/service/CotisationServiceJpaTest.java#L33)| [Cotisation.java](https://github.com/repairnator/repairnator-experiments-one-erroring-test-case/blob/2ae47304966586bd5b33c3d4b6fb4e06f95c4058/src/main/java/dev/paie/entite/Cotisation.java#L31) or [CotisationServiceJpa.java](https://github.com/repairnator/repairnator-experiments/blob/ff44005896edabea527164f7b401a7278d29abda/src/main/java/dev/paie/service/CotisationServiceJpa.java#L22)|
 
 - **Human Patch**:
 
@@ -50,6 +50,6 @@ index 160e012..cb165a1 100644
  
  - **Overview**: The problem is related to a `PersistenceException` that is thrown while the program executes the test cases.
 
-- **Reason why the patches have been generated**: The first code-removal patch is equal to the human patch, so it's correct that it has been generated.
+- **Reason why the patches have been generated**: The first code-removal patch is equal to the human patch, so it's correct that it has been generated. The second code-removal patch is incorrect because it removes the functionality and it is for this reason that the exception is no longer thrown.
 
 - **Useful information for the developer**: The developer can apply the same fix of the first code-removal patch.
