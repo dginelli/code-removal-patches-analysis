@@ -1,4 +1,4 @@
-# Information about the failure**:
+# Information about the failure
 
 | Error type   | Crashing test case | Changed file by jKali |
 |--------------|-------------------|----------------------------|
