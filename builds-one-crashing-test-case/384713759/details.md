@@ -50,6 +50,6 @@ index 160e012..cb165a1 100644
  
  - **Overview**: The problem is related to a `PersistenceException` that is thrown while the program executes the test cases.
 
-- **Reason why the patch have been generated**: The first code-removal patch is equal to the human patch, so it's correct that it has been generated.
+- **Reason why the patches have been generated**: The first code-removal patch is equal to the human patch, so it's correct that it has been generated.
 
 - **Useful information for the developer**: The developer can apply the same fix of the first code-removal patch.
