@@ -30,8 +30,6 @@
 ;;[1](builds-one-failing-test-case/380634197/code-removal-patches/patch_1.patch);;x;;;;;
 [372495757](https://github.com/repairnator/repairnator-experiments/tree/8ba2d0f3840327388c549c76122503a0c000aea8);SudokuSolver;;;;;;;Change condition;[Link](builds-one-failing-test-case/372495757)
 ;;[1](builds-one-failing-test-case/372495757/code-removal-patches/patch_1.patch);;x;;;;;
-[361036711](https://github.com/repairnator/repairnator-experiments/tree/42d3d55a6a7da2bdb61107bef0aa02aa0ce396cf);nablarch-example-http-messaging;;;;;;;Not found;[Link](builds-one-failing-test-case/361036711)
-;;[1](builds-one-failing-test-case/361036711/code-removal-patches/patch_1.patch);;x;;;;;
 [413754623](https://github.com/repairnator/repairnator-experiments/tree/8f80f5c65d04ad2e5804f44f40c7088c95e13234);feign;;;;;;;Not found;[Link](builds-one-failing-test-case/413754623)
 ;;[1](builds-one-failing-test-case/413754623/code-removal-patches/patch_1.patch);;x;;;;;
 ;;[2](builds-one-failing-test-case/413754623/code-removal-patches/patch_2.patch);;x;;;;;
@@ -44,6 +42,8 @@
 [351075282](https://github.com/repairnator/repairnator-experiments/tree/dbf7edc5fd864ee6299068b14eff0267c9e54ff0);Software-Quality-Test-Framework;;;;;;;Fix test data;[Link](builds-one-failing-test-case/351075282)
 ;;[1](builds-one-failing-test-case/351075282/code-removal-patches/patch_1.patch);;;;x;;;
 ;;[2](builds-one-failing-test-case/351075282/code-removal-patches/patch_2.patch);;;;x;;;
+[378592651](https://github.com/repairnator/repairnator-experiments/tree/32f8c865b0f9849f77c404c0c5d23011ae9abd1e);enmasse;;;;;;;Not found;[Link](builds-one-failing-test-case/378592651)
+;;[1](builds-one-failing-test-case/378592651/code-removal-patches/patch_1.patch);;;;x;;;
 [351211949](https://github.com/repairnator/repairnator-experiments/tree/acfa5adb229636361f35e7784efb45d2f3e8368f);carnotzet;;;;;;;Fix test code;[Link](builds-one-failing-test-case/351211949)
 ;;[1](builds-one-failing-test-case/351211949/code-removal-patches/patch_1.patch);;;x;;;;
 [408694507](https://github.com/repairnator/repairnator-experiments/tree/9f15282ffc0d72a77f786e0817a77ee28d3cdc5d);volcano-core;;;;;;;Fix test code;[Link](builds-one-failing-test-case/408694507)
@@ -62,8 +62,25 @@
 ;;[4](builds-one-failing-test-case/349620528/code-removal-patches/patch_4.patch);;;x;;;;
 [363986485](https://github.com/repairnator/repairnator-experiments/tree/c0a1fa5702c5c4b58b69515fbd6072676d3679bf);dotwebstack-framework;;;;;;;Fix test code;[Link](builds-one-failing-test-case/363986485)
 ;;[1](builds-one-failing-test-case/363986485/code-removal-patches/patch_1.patch);;;x;;;;
+[387671228](https://github.com/repairnator/repairnator-experiments/tree/78c1c451ff977e20b523caf43fafca93cd306f8b);atom-jaxb;;;;;;;;
+;;[1](builds-one-failing-test-case/387671228/code-removal-patches/patch_1.patch);;;x;;;;
 [396857150](https://github.com/repairnator/repairnator-experiments/tree/e707c6f445dfaffa6b66e626a87a12474aca313e);hesperides;;;;;;;Not found;[Link](builds-one-failing-test-case/396857150)
 ;;[1](builds-one-failing-test-case/396857150/code-removal-patches/patch_1.patch);;;x;;;;
+;;;;;;;;;
+[214962527](https://github.com/repairnator/repairnator-experiments/tree/b860ff8e5b3089462270bcbdd45e301cab2954b7);BlackLab;;;;;;;Not found;[Link](builds-one-failing-test-case/214962527)
+;;[1](builds-one-failing-test-case/214962527/code-removal-patches/patch_1.patch);;;;;x;;
+[407166687](https://github.com/repairnator/repairnator-experiments/tree/c546c00981b422805de868644cb37b9885bbcc4f);incubator-dubbo;;;;;;;Not found;[Link](builds-one-failing-test-case/407166687)
+;;[1](builds-one-failing-test-case/407166687/code-removal-patches/patch_1.patch);;;;;x;;
+;;[2](builds-one-failing-test-case/407166687/code-removal-patches/patch_2.patch);;;;;x;;
+;;[3](builds-one-failing-test-case/407166687/code-removal-patches/patch_3.patch);;;;;x;;
+;;[4](builds-one-failing-test-case/407166687/code-removal-patches/patch_4.patch);;;;;x;;
+;;[5](builds-one-failing-test-case/407166687/code-removal-patches/patch_5.patch);;;;;x;;
+;;[6](builds-one-failing-test-case/407166687/code-removal-patches/patch_6.patch);;;;;x;;
+;;[7](builds-one-failing-test-case/407166687/code-removal-patches/patch_7.patch);;;;;x;;
+;;[8](builds-one-failing-test-case/407166687/code-removal-patches/patch_8.patch);;;;;x;;
+;;[9](builds-one-failing-test-case/407166687/code-removal-patches/patch_9.patch);;;;;x;;
+;;[10](builds-one-failing-test-case/407166687/code-removal-patches/patch_10.patch);;;;;x;;
+;;[11](builds-one-failing-test-case/407166687/code-removal-patches/patch_11.patch);;;;;x;;
 [403447416](https://github.com/repairnator/repairnator-experiments/tree/85e2172d82b2e3ee3c78ea63ca75c060580e78c6);incubator-dubbo;;;;;;;No change;[Link](builds-one-failing-test-case/403447416)
 ;;[1](builds-one-failing-test-case/403447416/code-removal-patches/patch_1.patch);;;;;x;;
 [415750114](https://github.com/repairnator/repairnator-experiments/tree/5a9718c5456482e6fc7ad45e7f87673989c77a7e);incubator-dubbo;;;;;;;Revert;[Link](builds-one-failing-test-case/415750114)
@@ -78,6 +95,10 @@
 ;;[7](builds-one-failing-test-case/374587117/code-removal-patches/patch_7.patch);;;;;x;;
 ;;[8](builds-one-failing-test-case/374587117/code-removal-patches/patch_8.patch);;;;;x;;
 ;;[9](builds-one-failing-test-case/374587117/code-removal-patches/patch_9.patch);;;;;x;;
+[402096641](https://github.com/repairnator/repairnator-experiments/tree/9ccfacc648191e7e9400069083451da3fbbe7f66);ditto;;;;;;;No change;[Link](builds-one-failing-test-case/402096641)
+;;[1](builds-one-failing-test-case/402096641/code-removal-patches/patch_1.patch);;;;;x;;
+[387846982](https://github.com/repairnator/repairnator-experiments/tree/fd3aa62cb08078ba0e46870d01525b8f55fcd9e6);enmasse;;;;;;;No change;[Link](builds-one-failing-test-case/387846982)
+;;[1](builds-one-failing-test-case/387846982/code-removal-patches/patch_1.patch);;;;;x;;
 [415477949](https://github.com/repairnator/repairnator-experiments/tree/9d4a110655d93136cbfb5147364701c7ca08e0a6);dropwizard-db-sharding-bundle;;;;;;;No change;[Link](builds-one-failing-test-case/415477949)
 ;;[1](builds-one-failing-test-case/415477949/code-removal-patches/patch_1.patch);;;;;x;;
 ;;[2](builds-one-failing-test-case/415477949/code-removal-patches/patch_2.patch);;;;;x;;
