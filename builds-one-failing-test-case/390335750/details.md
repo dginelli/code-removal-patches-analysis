@@ -24,6 +24,6 @@ index 53574a9..e44b260 100644
 
 - **Overview**: the problem is related to the test case that checks the size of a List of MockSpan. Indeed, looking at the commit history of the project, the developer [changed the test case](https://github.com/opentracing-contrib/java-hazelcast/compare/df979e1e40d8...c9140902f4d9) to fix the bug. In particular, looking at the commit history of the [pull request](https://github.com/opentracing-contrib/java-hazelcast/pull/1/commits), the developer restored the previous version of the test case.
 
-- **Reason why the patches have been generated**:
+- **Reason why the patches have been generated**: The patches work because of an error in the test case.
 
-- **Useful information for the developer**:
+- **Useful information for the developer**: The developer can exploit the code-removal patches to understand if there is a bug in test case or not.
