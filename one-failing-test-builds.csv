@@ -67,18 +67,6 @@
 ;;[1](builds-one-failing-test-case/396857150/code-removal-patches/patch_1.patch);;;x;;;;
 [214962527](https://github.com/repairnator/repairnator-experiments/tree/b860ff8e5b3089462270bcbdd45e301cab2954b7);BlackLab;;;;;;;Not found;[Link](builds-one-failing-test-case/214962527)
 ;;[1](builds-one-failing-test-case/214962527/code-removal-patches/patch_1.patch);;;;;x;;
-[407166687](https://github.com/repairnator/repairnator-experiments/tree/c546c00981b422805de868644cb37b9885bbcc4f);incubator-dubbo;;;;;;;Not found;[Link](builds-one-failing-test-case/407166687)
-;;[1](builds-one-failing-test-case/407166687/code-removal-patches/patch_1.patch);;;;;x;;
-;;[2](builds-one-failing-test-case/407166687/code-removal-patches/patch_2.patch);;;;;x;;
-;;[3](builds-one-failing-test-case/407166687/code-removal-patches/patch_3.patch);;;;;x;;
-;;[4](builds-one-failing-test-case/407166687/code-removal-patches/patch_4.patch);;;;;x;;
-;;[5](builds-one-failing-test-case/407166687/code-removal-patches/patch_5.patch);;;;;x;;
-;;[6](builds-one-failing-test-case/407166687/code-removal-patches/patch_6.patch);;;;;x;;
-;;[7](builds-one-failing-test-case/407166687/code-removal-patches/patch_7.patch);;;;;x;;
-;;[8](builds-one-failing-test-case/407166687/code-removal-patches/patch_8.patch);;;;;x;;
-;;[9](builds-one-failing-test-case/407166687/code-removal-patches/patch_9.patch);;;;;x;;
-;;[10](builds-one-failing-test-case/407166687/code-removal-patches/patch_10.patch);;;;;x;;
-;;[11](builds-one-failing-test-case/407166687/code-removal-patches/patch_11.patch);;;;;x;;
 [403447416](https://github.com/repairnator/repairnator-experiments/tree/85e2172d82b2e3ee3c78ea63ca75c060580e78c6);incubator-dubbo;;;;;;;No Change;[Link](builds-one-failing-test-case/403447416)
 ;;[1](builds-one-failing-test-case/403447416/code-removal-patches/patch_1.patch);;;;;x;;
 [415750114](https://github.com/repairnator/repairnator-experiments/tree/5a9718c5456482e6fc7ad45e7f87673989c77a7e);incubator-dubbo;;;;;;;Revert;[Link](builds-one-failing-test-case/415750114)
