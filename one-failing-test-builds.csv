@@ -33,8 +33,6 @@
 [413754623](https://github.com/repairnator/repairnator-experiments/tree/8f80f5c65d04ad2e5804f44f40c7088c95e13234);feign;;;;;;;Not found;[Link](builds-one-failing-test-case/413754623)
 ;;[1](builds-one-failing-test-case/413754623/code-removal-patches/patch_1.patch);;x;;;;;
 ;;[2](builds-one-failing-test-case/413754623/code-removal-patches/patch_2.patch);;x;;;;;
-[387671228](https://github.com/repairnator/repairnator-experiments/tree/78c1c451ff977e20b523caf43fafca93cd306f8b);atom-jaxb;;;;;;;Fix Test Code;[Link](builds-one-failing-test-case/387671228)
-;;[1](builds-one-failing-test-case/387671228/code-removal-patches/patch_1.patch);;x;;;;;
 [354875355](https://github.com/repairnator/repairnator-experiments/tree/863676ac70f08a544ce9cc2d518d2c4434511969);commons-rng;;;;;;;Not found;[Link](builds-one-failing-test-case/354875355)
 ;;[1](builds-one-failing-test-case/354875355/code-removal-patches/patch_1.patch);;;;x;;;
 [403087258](https://github.com/repairnator/repairnator-experiments/tree/bde6e8936b524270b41002b12a45372d4f58007c);commons-rng;;;;;;;Not found;[Link](builds-one-failing-test-case/403087258)
