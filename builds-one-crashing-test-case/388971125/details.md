@@ -1,6 +1,6 @@
 # Information about the failure
 
-| Error type   | Erroring test case | Changed file by AstorJKali |
+| Error type   | Erroring test case | Changed file by jKali |
 |--------------|-------------------|----------------------------|
 |  java.lang.ClassCastException| [ToDoTest.java](https://github.com/repairnator/repairnator-experiments-one-erroring-test-case/blob/cdb1e93489f4dc2d22a711c21602ff63ad3f0350/src/test/java/ToDoTest.java#L102)| [ToDo.java](https://github.com/repairnator/repairnator-experiments-one-erroring-test-case/blob/cdb1e93489f4dc2d22a711c21602ff63ad3f0350/src/main/java/de/swtproject/doit/core/ToDo.java#L276)|
 
