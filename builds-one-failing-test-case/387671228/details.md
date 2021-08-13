@@ -62,3 +62,6 @@ index ad9eae9..4dcd1d2 100644
                              .build())
                          .withNamespace(EXTENSION_NAMESPACE)
 ```
+
+- **Reason why the patch has been generated**: The code-removal patch works because of an error in the test case.
+- **Useful information for the developer**: The develper can exploit the code-removal patch to understand if there is an bug in the test case or not.
