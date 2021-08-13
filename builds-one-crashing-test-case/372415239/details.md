@@ -30,3 +30,6 @@ index f632e03..f2654b0 100644
      public static final int ROW_OFFSET = 5;
      private static final String XLSX = ".xlsx";
  ```
+
+- **Reason why the patch has been generated**: The code removal patch works becuase of a bug in the test case.
+- **Useful information for the developer**: The developer can exploit the code-removal patch to understand if there is a bug in test case or not.
